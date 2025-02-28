@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Miguel Morales AKA Minesto</h1>
 
 <div align="center">
-  <img src ="./banner.png" />
-  
+  <img src="./banner2.png" style="height:300px; width:100%;"/>
 </div>
+
 
  <br/>
 
