@@ -1,6 +1,5 @@
 <h1 align="center">Hello, I'm Miguel Morales AKA Minesto</h1>
 
- <br/>
 
 ## 👨🏻‍💻 About Me:
 
